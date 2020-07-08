@@ -6,12 +6,12 @@ description: <a style="color:#FF6633" href="https://en.wikipedia.org/wiki/Intern
 
 profile:
   align: right
-  image: dp.jpg
+  image: sridhama.jpg
 news: true
 social: true
 ---
-I do machine learning research in the [Turaga Lab](https://www.janelia.org/lab/turaga-lab){:target="_blank"} at [HHMI Janelia Research Campus](https://www.janelia.org){:target="_blank"}. More specifically, I use variational inference and deep generative models to solve problems in neuroscience. Currently, I work on simulating the _Drosophila_ larva’s neural activity, at a population level, using [_connectomic_](https://en.wikipedia.org/wiki/Connectome){:target="_blank"} measurements. My research also involves quantitatively understanding the accuracy of these brain simulations as a function of the amount of connectomic data available.
+I do machine learning research in the [Turaga Lab](https://www.janelia.org/lab/turaga-lab){:target="_blank"} at [HHMI Janelia Research Campus](https://www.janelia.org){:target="_blank"}. More specifically, I use variational inference and deep generative models to solve problems in neuroscience. Currently, I work on simulating the _Drosophila_ larva’s neural activity, at a population level, using [connectomic](https://en.wikipedia.org/wiki/Connectome){:target="_blank"} measurements. My research also involves quantitatively understanding the accuracy of these brain simulations as a function of the amount of connectomic data available.
 
 In the past, I worked on variational spike inference from calcium fluorescence imaging, as well as some research in natural language processing.
 
-In my free time, I enjoy reading 📚 and playing the violin 🎻 (both Western and Carnatic styles). My favorite sports are soccer ⚽, chess ♟️, and, more recently, table tennis 🏓 --- which I picked up after joining Janelia.
+In my free time, I enjoy [reading](https://www.goodreads.com/sridhama){:target="_blank"} 📚 and playing the violin 🎻 (both Western and Carnatic styles). My favorite sports are soccer ⚽, chess ♟️, and, more recently, table tennis 🏓 --- which I picked up after joining Janelia.
