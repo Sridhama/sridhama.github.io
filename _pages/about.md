@@ -10,7 +10,7 @@ profile:
 news: true
 social: true
 ---
-I do machine learning research in the [Turaga Lab](https://www.janelia.org/lab/turaga-lab){:target="_blank"} at [HHMI Janelia Research Campus](https://www.janelia.org){:target="_blank"}. More specifically, I use variational inference and deep generative models to solve problems in neuroscience. Currently, I work on simulating the _Drosophila_ larva’s neural activity, at a population level, using [connectomic](https://en.wikipedia.org/wiki/Connectome){:target="_blank"} measurements. My research also involves quantitatively understanding the accuracy of these brain simulations as a function of the amount of connectomic data available.
+I do machine learning research in the [Turaga Lab](https://www.janelia.org/lab/turaga-lab){:target="_blank"} at [HHMI Janelia Research Campus](https://www.janelia.org){:target="_blank"}. More specifically, I use variational inference and deep generative models to solve problems in neuroscience. Currently, I'm trying to create [connectomic-](https://en.wikipedia.org/wiki/Connectome){:target="_blank"} and task-constrained neural networks for simulating population-level neural dynamics. My research also involves quantitatively understanding the accuracy of these neural simulations as a function of the amount of connectomic data available.
 
 In the past, I've worked on variational spike inference from calcium fluorescence imaging, as well as some research in natural language processing.
 
