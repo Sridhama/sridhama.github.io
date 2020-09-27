@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects
-description: some of the non-research stuff I've worked on
+description: stuff I've previously worked on
 ---
 
 * [YouTube Playlist Duration](https://chrome.google.com/webstore/detail/youtube-playlist-duration/ijppgifnllaehojnpbphigenojfjnhml){:target="_blank"} -- Chrome extension with 17,000+ active users (`javascript`)
