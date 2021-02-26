@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2020-2-12
+date: 2020-2-28
 inline: true
 ---
 
-Our paper titled ["Unsupervised Separation of Native and Loanwords for Malayalam and Telugu"](https://arxiv.org/abs/2002.05527){:target="\_blank"} is up on arXiv.
+We presented our poster titled "Inferring function from structure with connectome and task constrained neural networks" at [COSYNE 2020](https://www.cosyne.org/c/index.php?title=Cosyne2020_posters_2){:target="\_blank"}.
