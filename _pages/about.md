@@ -14,4 +14,4 @@ I do machine learning research in the [Turaga Lab](https://www.janelia.org/lab/t
 
 In the past, I've worked on variational spike inference from calcium fluorescence imaging, as well as some research in natural language processing.
 
-In my free time, I enjoy reading 📚 and playing the violin 🎻 (both Western classical and Carnatic styles). My favorite sports are soccer ⚽, chess ♟️, and table tennis 🏓.
+In my free time, I enjoy reading 📚 and playing the violin 🎻. My favorite sports are soccer ⚽, chess ♟️, and table tennis 🏓.
