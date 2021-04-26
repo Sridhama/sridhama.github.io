@@ -6,7 +6,7 @@ description: <a style="color:#FF6633" href="https://en.wikipedia.org/wiki/Intern
 
 profile:
   align: right
-  image: sridhama.jpg
+  image: https://scholar.googleusercontent.com/citations?user=f1X0cXMAAAAJ&view_op=medium_photo
 news: true
 social: true
 ---
